@@ -10,9 +10,11 @@ Podemos declarar formatos especificos de datas com o formato YYMMDD10. O 10. sig
 
 YYMMDD10. = 2022-10-13
 Entrada
+
 ![image](https://github.com/user-attachments/assets/274395d2-f029-4e97-aa5b-47af2fab589c)
 
 Saída
+
 ![image](https://github.com/user-attachments/assets/c667efc5-a6f3-4aec-a79d-c06104eff4e3)
 
 ### ENTRADA DDMMYYD10.
@@ -22,9 +24,11 @@ Usando uma maskacar com o formato esperado da data podemos ter uma saída com o 
 
 
 Entrada
+
 ![image](https://github.com/user-attachments/assets/1bf7e8de-48d2-48ea-8abe-8e6cd5c8ed8d)
 
 Saída
+
 ![image](https://github.com/user-attachments/assets/02898f19-c559-4d40-9762-f195f0aa1a94)
 
 
@@ -73,14 +77,17 @@ SAÍDA:
 ![image](https://github.com/user-attachments/assets/0f1f72a0-41b8-49d6-a2bf-42ef17a3d5c2)
 
 ENTRADA: 
+
 ![image](https://github.com/user-attachments/assets/8e95bda1-4e31-48f6-8c8d-8c7ffe7397b9)
 
 SAÍDA:
+
 ![image](https://github.com/user-attachments/assets/78d38035-c133-4bc4-89fc-a92776d5eec7)
 
 ## GRÁFICOS: 
 
 ENTRADA:
+
 ![image](https://github.com/user-attachments/assets/b329a9ae-2def-4df9-a7aa-e7ffbcbc19ea)
 ![image](https://github.com/user-attachments/assets/d5760980-8cd5-4c41-a612-980009a15cf2)
 ![image](https://github.com/user-attachments/assets/958c069d-409d-4caf-9359-3a4123a80039)
@@ -88,6 +95,7 @@ ENTRADA:
 
 
 SAÍDA:
+
 ![image](https://github.com/user-attachments/assets/2b2b8bbd-69bc-4a48-b4e8-acd7139f0179)
 ![image](https://github.com/user-attachments/assets/56bd7b8d-2f6f-4a0d-832a-925559b905ba)
 ![image](https://github.com/user-attachments/assets/2c7471cf-134e-4e44-988f-8ca99235a469)
@@ -96,21 +104,26 @@ SAÍDA:
 ## UNIVARIANTES
 
 ENTRADAS
+
 ![image](https://github.com/user-attachments/assets/2d199cba-5c16-4e12-8e9b-65202e422902)
 
 
 SAÍDAS
-![image](https://github.com/user-attachments/assets/44513209-6256-40b7-80a1-9b52edf88beb)
 
+![image](https://github.com/user-attachments/assets/44513209-6256-40b7-80a1-9b52edf88beb)
 
 ### PROC RANK
 
   cria categorias de inforamções para separar valores em clusters
+
+ENTRADAS: 
+
 ![image](https://github.com/user-attachments/assets/897a101a-9a6f-4ad1-9adb-ab84970fa614)
 ![image](https://github.com/user-attachments/assets/7906f1f7-d469-4de7-9b43-a2becbf1520e)
 
 
 SAÍDA:
+
 ![image](https://github.com/user-attachments/assets/79011e9e-bc7b-40cc-89ea-0e023be2c703)
 ![image](https://github.com/user-attachments/assets/3354873a-8dd2-4945-b97b-f4fd230cd6f5)
 
